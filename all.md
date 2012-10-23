@@ -380,7 +380,7 @@ classes:
  - step
 data:
   x: 0
-  y: 14000
+  y: 13000
 
 ---
 
@@ -396,7 +396,7 @@ classes:
  - step
 data:
   x: 0
-  y: 15000
+  y: 14000
 
 ---
 
@@ -410,7 +410,7 @@ classes:
  - step
 data:
   x: 0
-  y: 16000
+  y: 15000
 
 ---
 
@@ -424,7 +424,7 @@ classes:
  - step
 data:
   x: 1000
-  y: 17000
+  y: 15000
 
 ---
 
@@ -438,7 +438,7 @@ classes:
  - step
 data:
   x: 2000
-  y: 18000
+  y: 15000
 
 ---
 
@@ -454,7 +454,7 @@ classes:
  - step
 data:
   x: 3000
-  y: 19000
+  y: 15000
 
 ---
 
@@ -468,7 +468,7 @@ classes:
  - step
 data:
   x: 4000
-  y: 16000
+  y: 15000
 
 ---
 
