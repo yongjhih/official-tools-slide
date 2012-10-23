@@ -428,6 +428,23 @@ data:
 
 ---
 
+經過較多次存檔
+
+![git-lg](git-lg.png)
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 5000
+  y: 13000
+  rotate: 90
+
+---
+
 我們可以看 xls 的修改差異
 
 ![git-diff-xls](git-diff-xls.png)
