@@ -278,7 +278,7 @@ published: true
 classes:
  - step
 data:
-  x: 11000
+  x: 13000
   y: 0
   scale: 3
 
