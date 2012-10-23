@@ -18,13 +18,14 @@ def process_xxx(inp):
     startline = None
     prefilename = 0
     prefix = "2012-"
+    suffix = "-slide"
     path = "_posts"
     for i, line in enumerate(buf):
         if line.startswith('layout: ') or i == len(buf) -1:
             if startline is None:
                 startline = 0
                 continue
-            with open(os.path.join(path, prefix + str(prefilename) + '.md'), 'wb') as f:
+            with open(os.path.join(path, prefix + str(prefilename) + suffix + '.md'), 'wb') as f:
                 for l in buf[startline:i-1]:
                     f.write(l)
             startline = i - 1
