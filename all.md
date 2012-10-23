@@ -14,6 +14,19 @@ data:
 * Andrew Chen
 
 ---
+layout: slide
+title: "About me"
+published: true
+data:
+  x: 1000
+  y: 0
+
+---
+
+* C1A
+* Andrew Chen
+
+---
 layout: default
 title: ""
 published: true
