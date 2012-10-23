@@ -10,8 +10,20 @@ data:
 
 #增進工作效能－電腦小工具介紹#
 
-* C1A
-* Andrew Chen
+---
+layout: slide
+title: ""
+published: true
+data:
+  x: 1000
+  y: 0
+
+---
+
+C1A
+#Andrew Chen#
+
+andrew.chen@gigabyte.com
 
 ---
 layout: default
@@ -547,24 +559,10 @@ published: true
 classes:
  - step
 data:
-  x: 4000
-  y: 15000
+  x: 0
+  y: 13000
 
 ---
 
-版本控制集結點
-
----
-layout: default
-title: ""
-published: true
-classes:
- - step
-data:
-  x: 4000
-  y: 15000
-
----
-
-建立一個集結點
+傳說中的 Live Demo
 
