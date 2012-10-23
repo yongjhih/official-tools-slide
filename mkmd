@@ -1,0 +1,38 @@
+#!/usr/bin/env python
+#-*- coding: utf-8 -*-
+
+import re
+import sys
+import fnmatch
+import os
+
+# file: all.md
+# dir: _posts/
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
+def process_xxx(inp):
+    buf = []
+    with open(inp) as f:
+        buf = f.readlines()
+    startline = None
+    prefilename = 0
+    prefix = "2012-"
+    path = "_posts"
+    for i, line in enumerate(buf):
+        if line.startswith('layout: ') or i == len(buf) -1:
+            if startline is None:
+                startline = 0
+                continue
+            with open(os.path.join(path, prefix + str(prefilename) + '.md'), 'wb') as f:
+                for l in buf[startline:i-1]:
+                    f.write(l)
+            startline = i - 1
+            prefilename += 1
+
+def main():
+    process_xxx("all.md")
+
+if __name__ == '__main__':
+    main()
+
