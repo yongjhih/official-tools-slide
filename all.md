@@ -583,3 +583,64 @@ data:
 
 傳說中的 Live Demo
 
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 10000
+  y: 16000
+  rotate: 90
+
+---
+
+鍵盤滑鼠分享: Synergy
+
+比較工具: WinMerge
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 11000
+  y: 16000
+  rotate: 90
+
+---
+
+傳說中的 Live Demo
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 12000
+  y: 17000
+  rotate: 90
+
+---
+
+Q & A
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 12000
+  y: 18000
+
+---
+
+Thanks
+
