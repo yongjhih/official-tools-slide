@@ -25,7 +25,7 @@ def process_xxx(inp):
             if startline is None:
                 startline = 0
                 continue
-            with open(os.path.join(path, prefix + str(prefilename) + suffix + '.md'), 'wb') as f:
+            with open(os.path.join(path, prefix + format('%02d' % prefilename) + suffix + '.md'), 'wb') as f:
                 for l in buf[startline:i-1]:
                     f.write(l)
                 if i == len(buf) - 1:
