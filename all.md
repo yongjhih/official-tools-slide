@@ -60,7 +60,11 @@ data:
 
 ---
 
-雜誌、網誌
+來源:
+
+雜誌
+
+網誌
 
 ---
 layout: default
@@ -75,7 +79,11 @@ data:
 
 ---
 
+取向:
+
 譁眾取寵
+
+永續發展
 
 ---
 layout: default
@@ -90,7 +98,9 @@ data:
 
 ---
 
-永續發展
+蘿莉控
+
+版控
 
 ---
 layout: default
