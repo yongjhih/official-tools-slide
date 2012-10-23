@@ -28,6 +28,9 @@ def process_xxx(inp):
             with open(os.path.join(path, prefix + str(prefilename) + suffix + '.md'), 'wb') as f:
                 for l in buf[startline:i-1]:
                     f.write(l)
+                if i == len(buf) - 1:
+                    for l in buf[i-1:i+1]:
+                        f.write(l)
             startline = i - 1
             prefilename += 1
 
