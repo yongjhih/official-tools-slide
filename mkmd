@@ -17,7 +17,7 @@ def process_xxx(inp):
         buf = f.readlines()
     startline = None
     prefilename = 0
-    prefix = "2012-"
+    prefix = "2012-10-"
     suffix = "-slide"
     path = "_posts"
     for i, line in enumerate(buf):
