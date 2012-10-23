@@ -14,19 +14,14 @@ data:
 * Andrew Chen
 
 ---
-
-* C1A
-* Andrew Chen
-
----
 layout: default
 title: ""
 published: true
 classes:
  - step
 data:
-  x: 2000
-  y: 0
+  x: 1000
+  y: 1000
   scale: 4
 
 ---
@@ -40,8 +35,8 @@ published: true
 classes:
  - step
 data:
-  x: 3000
-  y: 0
+  x: 2000
+  y: 1000
   scale: 4
 
 ---
@@ -55,8 +50,8 @@ published: true
 classes:
  - step
 data:
-  x: 4000
-  y: 0
+  x: 3000
+  y: 1000
   scale: 4
 
 ---
@@ -70,8 +65,8 @@ published: true
 classes:
  - step
 data:
-  x: 5000
-  y: 0
+  x: 4000
+  y: 1000
   scale: 4
 
 ---
@@ -85,8 +80,8 @@ published: true
 classes:
  - step
 data:
-  x: 6000
-  y: 0
+  x: 5000
+  y: 1000
   scale: 4
 
 ---
@@ -175,7 +170,7 @@ published: true
 classes:
  - step
 data:
-  x: 5000
+  x: 7000
   y: 0
   scale: 3
 
@@ -190,7 +185,7 @@ published: true
 classes:
  - step
 data:
-  x: 6000
+  x: 8000
   y: 0
   scale: 3
 
@@ -205,7 +200,7 @@ published: true
 classes:
  - step
 data:
-  x: 7000
+  x: 9000
   y: 0
   scale: 3
 
@@ -220,7 +215,7 @@ published: true
 classes:
  - step
 data:
-  x: 8000
+  x: 10000
   y: 0
   scale: 3
 
@@ -236,7 +231,7 @@ published: true
 classes:
  - step
 data:
-  x: 9000
+  x: 11000
   y: 0
   scale: 3
 
@@ -252,7 +247,7 @@ published: true
 classes:
  - step
 data:
-  x: 10000
+  x: 12000
   y: 0
   scale: 3
 
