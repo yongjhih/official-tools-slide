@@ -30,13 +30,79 @@ published: true
 classes:
  - step
 data:
-  x: 1000
-  y: 2000
+  x: 2000
+  y: 0
+  scale: 4
+
+---
+
+難題
+
+#增進工作效能－電腦小工具介紹#
+
+對象全公司
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 3000
+  y: 0
   scale: 4
 
 ---
 
 技客**融入**生活
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 4000
+  y: 0
+  scale: 4
+
+---
+
+雜誌、網誌
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 5000
+  y: 0
+  scale: 4
+
+---
+
+譁眾取寵
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 6000
+  y: 0
+  scale: 4
+
+---
+
+永續發展
+
+衝擊
 
 ---
 layout: default
@@ -473,4 +539,32 @@ data:
 ---
 
 協同作業
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 4000
+  y: 15000
+
+---
+
+版本控制集結點
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 4000
+  y: 15000
+
+---
+
+建立一個集結點
 
