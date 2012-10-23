@@ -41,7 +41,7 @@ classes:
 data:
   x: 2000
   y: 1000
-  scale: 2
+  scale: 5
 
 ---
 
@@ -56,7 +56,7 @@ classes:
 data:
   x: 3000
   y: 1000
-  scale: 2
+  scale: 5
 
 ---
 
@@ -71,7 +71,7 @@ classes:
 data:
   x: 4000
   y: 1000
-  scale: 2
+  scale: 5
 
 ---
 
@@ -86,7 +86,7 @@ classes:
 data:
   x: 5000
   y: 1000
-  scale: 2
+  scale: 5
 
 ---
 
