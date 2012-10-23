@@ -352,7 +352,7 @@ data:
 
 我們可以看 xls 的修改差異
 
-<img src="git-diff-xls.png" width="400px" />
+![git-diff-xls](git-diff-xls.png)
 
 ---
 layout: default
@@ -369,5 +369,5 @@ data:
 
 我們可以看 txt 的修改差異
 
-<img src="git-diff-tpa.png" width="400px" />
+![git-diff-tpa](git-diff-tpa.png)
 
