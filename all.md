@@ -10,13 +10,8 @@ data:
 
 #增進工作效能－電腦小工具介紹#
 
----
-layout: slide
-title: "About me"
-published: true
-data:
-  x: 1000
-  y: 0
+* C1A
+* Andrew Chen
 
 ---
 
@@ -37,10 +32,6 @@ data:
 ---
 
 難題
-
-#增進工作效能－電腦小工具介紹#
-
-對象全公司
 
 ---
 layout: default
@@ -101,8 +92,6 @@ data:
 ---
 
 永續發展
-
-衝擊
 
 ---
 layout: default
