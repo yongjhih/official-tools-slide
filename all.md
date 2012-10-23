@@ -22,7 +22,7 @@ classes:
 data:
   x: 1000
   y: 1000
-  scale: 4
+  scale: 5
 
 ---
 
