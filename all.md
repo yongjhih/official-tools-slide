@@ -28,6 +28,10 @@ data:
 
 難題
 
+#增進工作效能－電腦小工具介紹#
+
+對象全公司
+
 ---
 layout: default
 title: ""
@@ -37,7 +41,7 @@ classes:
 data:
   x: 2000
   y: 1000
-  scale: 4
+  scale: 2
 
 ---
 
@@ -52,7 +56,7 @@ classes:
 data:
   x: 3000
   y: 1000
-  scale: 4
+  scale: 2
 
 ---
 
@@ -67,7 +71,7 @@ classes:
 data:
   x: 4000
   y: 1000
-  scale: 4
+  scale: 2
 
 ---
 
@@ -82,7 +86,7 @@ classes:
 data:
   x: 5000
   y: 1000
-  scale: 4
+  scale: 2
 
 ---
 
@@ -155,7 +159,7 @@ published: true
 classes:
  - step
 data:
-  x: 4000
+  x: 6000
   y: 0
   scale: 3
 
