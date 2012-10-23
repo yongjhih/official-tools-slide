@@ -1,2 +1,2 @@
 all:
-	mkmd
+	./mkmd

@@ -290,7 +290,7 @@ classes:
  - step
 data:
   x: 5000
-  y: 10000
+  y: 9000
   rotate: 90
 
 ---
@@ -309,7 +309,7 @@ classes:
  - step
 data:
   x: 5000
-  y: 12000
+  y: 10000
   rotate: 90
 
 ---
@@ -318,33 +318,56 @@ data:
 
 commit message 提交訊息
 
-![git-commit](commit-message.png)
+![commit-message](commit-message.png)
 
 ---
 layout: default
 title: ""
-published: false
+published: true
 classes:
- - slide
+ - step
 data:
-  x: 0
-  y: 0
+  x: 5000
+  y: 11000
+  rotate: 90
 
 ---
 
-test1
+經過幾次存檔
+
+![git-log-show](git-log-show.png)
 
 ---
 layout: default
 title: ""
-published: false
+published: true
 classes:
- - slide
+ - step
 data:
-  x: 0
-  y: 0
+  x: 5000
+  y: 12000
+  rotate: 90
 
 ---
 
-test2
+我們可以看 xls 的修改差異
+
+![git-diff-xls](git-diff-xls.png)
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 5000
+  y: 13000
+  rotate: 90
+
+---
+
+我們可以看 txt 的修改差異
+
+![git-diff-tpa](git-diff-tpa.png)
 
