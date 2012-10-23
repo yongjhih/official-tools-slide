@@ -607,7 +607,7 @@ published: true
 classes:
  - step
 data:
-  x: 6000
+  x: 7000
   y: 16000
   rotate: 90
 
@@ -622,7 +622,7 @@ published: true
 classes:
  - step
 data:
-  x: 7000
+  x: 8000
   y: 17000
   rotate: 90
 
@@ -637,7 +637,7 @@ published: true
 classes:
  - step
 data:
-  x: 8000
+  x: 9000
   y: 18000
 
 ---
