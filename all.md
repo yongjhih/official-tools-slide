@@ -10,9 +10,6 @@ data:
 
 #增進工作效能－電腦小工具介紹#
 
-* C1A
-* Andrew Chen
-
 ---
 layout: slide
 title: "About me"
