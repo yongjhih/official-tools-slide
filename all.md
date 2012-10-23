@@ -370,4 +370,107 @@ data:
 我們可以看 txt 的修改差異
 
 ![git-diff-tpa](git-diff-tpa.png)
+![300px-Tpa_logo](300px-Tpa_logo.png)
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 0
+  y: 14000
+
+---
+
+Live Demo
+
+傳說 Live Demo 一定會出包
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 0
+  y: 14000
+
+---
+
+除了本地自我管理之外
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 0
+  y: 15000
+
+---
+
+思考因地適宜的應用
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 1000
+  y: 15000
+
+---
+
+網芳
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 2000
+  y: 15000
+
+---
+
+額外的儲存空間？
+
+![dropbox](dropbox.png)
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 3000
+  y: 15000
+
+---
+
+共同存取空間
+
+---
+layout: default
+title: ""
+published: true
+classes:
+ - step
+data:
+  x: 4000
+  y: 15000
+
+---
+
+協同作業
 
